@@ -1,4 +1,4 @@
-# salary prediction of new employees based on yrs of experience
+# salary prediction of new employees based on yrs of experience using linear regression
 predicting the salary of new employees based on years of experience
 
 Visualizing data before processing
