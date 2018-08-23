@@ -1,4 +1,4 @@
-# salary prediction of new employees based on yrs_experience
+# salary prediction of new employees based on yrs of experience
 predicting the salary of new employees based on years of experience
 
 Visualizing data before processing
